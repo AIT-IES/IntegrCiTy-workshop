@@ -1,0 +1,1 @@
+This folder is intended to store results as KML/COLLADA/glTF models for visualization in [Google Earth Pro](https://www.google.de/earth/download/gep/agree.html).
